@@ -12,17 +12,15 @@ The dataset for this project is available on Kaggle's competition page: [Dog Bre
 The project is organized as follows:
 
 - `data/` - Directory where you should place the dataset.
-- `notebooks/` - Jupyter notebooks for different stages of the project (data exploration, model building, evaluation, etc.).
 - `models/` - Saved model checkpoints will be stored here.
-- `utils/` - Utility functions and scripts used in the project.
-
+  
 ## Usage
 
 1. **Data Preparation**: Place the downloaded dataset into the `data/` directory.
 
-2. **Exploratory Data Analysis**: Use the notebooks in the `notebooks/` directory to explore the dataset, visualize the images, and gain insights into the data.
+2. **Exploratory Data Analysis**:  directory to explore the dataset, visualize the images, and gain insights into the data.
 
-3. **Model Building**: Follow the notebook(s) in the `notebooks/` directory to build and train the MobileNetV2-based model for dog breed identification.
+3. **Model Building**: directory to build and train the MobileNetV2-based model for dog breed identification.
 
 4. **Evaluation**: Evaluate the model's performance using evaluation metrics like accuracy, and analyze any misclassified images.
 
